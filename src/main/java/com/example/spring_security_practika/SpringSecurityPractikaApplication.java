@@ -8,6 +8,9 @@ public class SpringSecurityPractikaApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringSecurityPractikaApplication.class, args);
+
+        System.out.println("djsisd");
     }
+
 
 }
